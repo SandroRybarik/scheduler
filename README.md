@@ -1,5 +1,7 @@
 # Go task scheduler
 
+Project for education purposes. Playing with go routines, time and generic task scheduling.
+
 ## Build and run
 
 - `go build`
